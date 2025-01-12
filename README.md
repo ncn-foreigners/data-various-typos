@@ -22,7 +22,7 @@ The repository currently includes:
    - Frequency of occurrence of the given names and surnames.
 
 ## Dataset Structure
-Each dataset is organized into tables with the following columns:
+Each dataset contains circa 50 female names, 50 male names, and 50 surnames. The data is organized into tables with the following columns:
 - **Original Name**: The name or surname in its original script.
 - **Polish Transliteration**: Transliteration based on Polish orthography.
 - **Alt Polish Trans**: Alternative Polish transliterations.
