@@ -17,8 +17,17 @@ The repository currently includes:
    - Male Names
    - Surnames
 
-4. **Planned Additions**
-   - Additional languages such as Belarusian, Vietnamese, and more.
+3. **Belarusian Names and Surnames**
+   - Female Names
+   - Male Names
+   - Surnames
+
+4. **Vietnamese Names and Surnames**
+   - Female Names
+   - Male Names
+   - Surnames
+
+5. **Planned Additions**
    - Frequency of occurrence of the given names and surnames.
 
 ## Dataset Structure
